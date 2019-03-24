@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc30c60744401124cb3856399657b634, type: 3}
+  m_Name: Silence
+  m_EditorClassIdentifier: 
+  Name: Silence
+  Description: Your opponent can only sacrifice 1 item
+  SecondaryDescription: Your opponent can only sacrifice 1 item and takes 2 damage
+  ItemWeight: 1
+  ItemValue: 1
+  AnimationName: Spell
+  MainType: 2
+  SecondaryType: 9
+  ItemIcon: {fileID: 21300000, guid: a19c44415d3753640b140848c24c3e17, type: 3}
